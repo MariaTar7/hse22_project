@@ -2,7 +2,9 @@
 
 ## Выбранные организмы
 Plasmodium( relictum, reichenowi, berghei ANKA)
+
 Besnoitia
+
 Neospora
 
 ## Анализ аннотированных генов
