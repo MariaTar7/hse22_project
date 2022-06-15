@@ -1,6 +1,8 @@
 # hse22_project
 
 ## Выбранные организмы
+
+Таксон: Apicomplexans
 Plasmodium( relictum, reichenowi, berghei ANKA)
 
 Besnoitia
