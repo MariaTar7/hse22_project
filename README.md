@@ -1,5 +1,9 @@
 # hse22_project
 
+## Выбранные организмы
+Plasmodium( relictum, reichenowi, berghei ANKA)
+Besnoitia
+Neospora
 
 ## Анализ аннотированных генов
 ![Снимок экрана от 2022-06-15 23-20-44](https://user-images.githubusercontent.com/93282657/173920281-c272c9b3-d940-46ba-8273-7bac85f0df9c.png)
