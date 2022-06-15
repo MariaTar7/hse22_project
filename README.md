@@ -9,8 +9,6 @@
 ![Снимок экрана от 2022-06-15 23-29-55](https://user-images.githubusercontent.com/93282657/173921411-0e0e8165-6b73-48fe-ba49-fe602498b25f.png)
 ![Снимок экрана от 2022-06-15 23-29-48](https://user-images.githubusercontent.com/93282657/173921415-8f7ab3ff-cf9d-492a-87d8-108628d780d1.png)
 ![Снимок экрана от 2022-06-15 23-29-39](https://user-images.githubusercontent.com/93282657/173921418-70afafc3-2502-4829-b871-ef0a70ba5ca6.png)
-![Снимок экрана от 2022-06-15 23-29-35](https://user-images.githubusercontent.com/93282657/173921421-059d9497-ba8a-4610-b7bb-69ddbcc8c3da.png)
-![Снимок экрана от 2022-06-15 23-29-26](https://user-images.githubusercontent.com/93282657/173921423-1422465a-81cb-4625-ab12-279eff9432fd.png)
 ![Снимок экрана от 2022-06-15 23-29-18](https://user-images.githubusercontent.com/93282657/173921425-c91400b0-1c5b-4441-8930-129bb083926b.png)
 
 
