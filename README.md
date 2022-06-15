@@ -3,7 +3,7 @@
 
 ## Анализ аннотированных генов
 ![Снимок экрана от 2022-06-15 23-20-44](https://user-images.githubusercontent.com/93282657/173920281-c272c9b3-d940-46ba-8273-7bac85f0df9c.png)
-##Предсказание участков Z-DNA
+## Предсказание участков Z-DNA
 ![Снимок экрана от 2022-06-15 23-25-25](https://user-images.githubusercontent.com/93282657/173920639-5722fb3b-f4be-401b-a404-4bcb7bb50f6b.png)
 
 
@@ -17,10 +17,22 @@
 
 
 ## Ассоциация предсказанных участков Z-DNA с промотерами генов  
+
+['GCA_000208865.2_ASM20886v2',
+ 'GCA_001601855.1_ASM160185v1',
+ 'GCA_002563875.1_Bbes1.0',
+ 'GCA_900002375.2_GCA_900002375',
+ 'GCA_900005765.1_PRELSG']
+
+GCA_000208865
 ![изображение](https://user-images.githubusercontent.com/93282657/173921885-a78cfcac-28a4-4d44-a2cc-8add8cc8f287.png)
+GCA_001601855
 ![изображение](https://user-images.githubusercontent.com/93282657/173922602-70d9b30f-d830-4eaf-9e72-6f6036be5f1e.png)
+GCA_002563875
 ![изображение](https://user-images.githubusercontent.com/93282657/173922783-0a924a8b-48f1-4634-9188-70ad9b610d99.png)
+GCA_900002375.2_GCA_900002375
 ![изображение](https://user-images.githubusercontent.com/93282657/173922037-a6e8901c-5c0a-429d-8a5b-26241dbe96d8.png)
+GCA_900005765.1_PRELSG
 ![изображение](https://user-images.githubusercontent.com/93282657/173921986-6d7f0a9a-5cea-4276-82ee-3bfc533a725a.png)
 
 
