@@ -109,10 +109,11 @@ GCA_900005765
 
 
 
-colab: https://colab.research.google.com/drive/14uuokZyqCHtEKNCp7plwdr8WdSxbwxjy?usp=sharing
+colab: [https://colab.research.google.com/drive/14uuokZyqCHtEKNCp7plwdr8WdSxbwxjy?usp=sharing](https://colab.research.google.com/drive/1hc5YqnAhbpe08AiKdoNrP__BtxwY9DhD?usp=sharing)
 
 
 ## Предсказание G-квадруплексов
+colab с G-квадруплексами https://colab.research.google.com/drive/11BjnhLG7NLBURu79COBtpNfrIFB77DaW?usp=sharing
 |    | Организм                   |   Количество участков G-квадруплексов |   Общая длина участков G-квадруплексов |
 |---:|:---------------------------|--------------------------------------:|---------------------------------------:|
 |  0 | Neospora caninum Liverpool |                                   144 |                                   2989 |
