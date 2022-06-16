@@ -81,11 +81,10 @@ GCA_900005765
 кластер 1
 ![изображение](https://user-images.githubusercontent.com/93282657/174152677-85a7b444-0674-4cbc-8fd7-54e118406654.png)
 
-![изображение](https://user-images.githubusercontent.com/93282657/174152864-956e56e8-5a06-4c57-9816-5eb88cbe4485.png)
+![изображение](https://user-images.githubusercontent.com/93282657/174153606-54a3d1fe-d54a-4e3b-95f1-3423a808c89e.png)
 
-![изображение](https://user-images.githubusercontent.com/93282657/174152936-96701d80-8c52-4e7c-b8bd-e52f0c1c9966.png)
+![изображение](https://user-images.githubusercontent.com/93282657/174153622-87dfb7c9-131a-4cec-9aa1-cf066767e772.png)
 
-![изображение](https://user-images.githubusercontent.com/93282657/174152974-54275bfa-5f0f-4833-98d6-1fd46b91173e.png)
 
 
 
