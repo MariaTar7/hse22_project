@@ -44,6 +44,39 @@ GCA_900005765
 ## Гистограмма кластеров
 ![изображение](https://user-images.githubusercontent.com/93282657/173922174-1459c700-26b3-4095-8e4e-2fbc6b74b01d.png)
 
+## Функции генов
+
+Кластер 0
+|                            | 0          | Функция                                 |
+|:---------------------------|:-----------|:----------------------------------------|
+| Neospora caninum Liverpool | CBZ49795.1 | calcium/proton antiporter               |
+| Plasmodium reichenowi      | KYO00910.1 | cation/H+ antiporter                    |
+| Besnoitia besnoiti         | PFH31764.1 | putative manganese resistance 1 protein |
+| Plasmodium berghei ANKA    | VUC53759.1 | cation/H+ antiporter                    |
+| Plasmodium  relictum       | CRH01099.1 | cation/H+ antiporter, putative          |
+
+
+Кластер 1
+
+|                            | 1          | Функция                                                 |
+|:---------------------------|:-----------|:--------------------------------------------------------|
+| Neospora caninum Liverpool | CBZ54997.1 | putative lysosomal cobalamin transporter                |
+| Plasmodium reichenowi      | KYN94808.1 | putative membrane protein                               |
+| Besnoitia besnoiti         | PFH34011.1 | hypothetical protein BESB_071630                        |
+| Plasmodium berghei ANKA    | VUC57904.1 | LMBR1 domain-containing protein, putative               |
+| Plasmodium  relictum       | CRH01707.1 | conserved Plasmodium membrane protein, unknown function |
+
+Кластер 2
+|                            | 2          | Функция                                               |
+|:---------------------------|:-----------|:------------------------------------------------------|
+| Neospora caninum Liverpool | CBZ51039.1 | putative endonuclease V                               |
+| Plasmodium reichenowi      | KYN94760.1 | apurinic/apyrimidinic endonuclease Apn1, putative     |
+| Besnoitia besnoiti         | PFH32183.1 | endonuclease IV APN                                   |
+| Plasmodium berghei ANKA    | VUC57861.1 | DNA-(apurinic or apyrimidinic site) lyase 1, putative |
+| Plasmodium  relictum       | CRH01749.1 | apurinic/apyrimidinic endonuclease Apn1, putative     |
+
+
+
 
 
 colab: https://colab.research.google.com/drive/14uuokZyqCHtEKNCp7plwdr8WdSxbwxjy?usp=sharing
