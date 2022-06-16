@@ -112,3 +112,12 @@ GCA_900005765
 colab: https://colab.research.google.com/drive/14uuokZyqCHtEKNCp7plwdr8WdSxbwxjy?usp=sharing
 
 
+## Предсказание G-квадруплексов
+|    | Организм                   |   Количество участков G-квадруплексов |   Общая длина участков G-квадруплексов |
+|---:|:---------------------------|--------------------------------------:|---------------------------------------:|
+|  0 | Neospora caninum Liverpool |                                   144 |                                   2989 |
+|  1 | Plasmodium reichenowi      |                                     0 |                                      0 |
+|  2 | Besnoitia besnoiti         |                                  1079 |                                  23517 |
+|  3 | Plasmodium berghei ANKA    |                                    24 |                                    572 |
+|  4 | Plasmodium  relictum       |                                     0 |                                      0 |
+
