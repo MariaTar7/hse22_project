@@ -78,7 +78,14 @@ GCA_900005765
 
 
 ## Множественное выравнивание
+кластер 1
 ![изображение](https://user-images.githubusercontent.com/93282657/174152677-85a7b444-0674-4cbc-8fd7-54e118406654.png)
+![изображение](https://user-images.githubusercontent.com/93282657/174152864-956e56e8-5a06-4c57-9816-5eb88cbe4485.png)
+![изображение](https://user-images.githubusercontent.com/93282657/174152936-96701d80-8c52-4e7c-b8bd-e52f0c1c9966.png)
+![изображение](https://user-images.githubusercontent.com/93282657/174152974-54275bfa-5f0f-4833-98d6-1fd46b91173e.png)
+
+
+
 
 
 
