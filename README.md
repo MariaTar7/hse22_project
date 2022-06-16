@@ -77,6 +77,11 @@ GCA_900005765
 
 
 
+## Множественное выравнивание
+![изображение](https://user-images.githubusercontent.com/93282657/174152677-85a7b444-0674-4cbc-8fd7-54e118406654.png)
+
+
+
 
 
 colab: https://colab.research.google.com/drive/14uuokZyqCHtEKNCp7plwdr8WdSxbwxjy?usp=sharing
