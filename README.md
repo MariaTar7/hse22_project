@@ -43,8 +43,7 @@ GCA_900005765
 
 
 ## Гистограмма кластеров
-![изображение](https://user-images.githubusercontent.com/93282657/173922174-1459c700-26b3-4095-8e4e-2fbc6b74b01d.png)
-
+![изображение](https://user-images.githubusercontent.com/93282657/174156867-b07d9ef3-f4a9-4142-9f99-5a365e514e97.png)
 ## Функции генов
 
 Кластер 0
