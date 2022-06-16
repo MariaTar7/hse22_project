@@ -122,6 +122,10 @@ colab с G-квадруплексами https://colab.research.google.com/drive/
 |  3 | Plasmodium berghei ANKA    |                                    24 |                                    572 |
 |  4 | Plasmodium  relictum       |                                     0 |                                      0 |
 
+Neospora caninum Liverpool
+![Снимок экрана от 2022-06-16 23-58-16](https://user-images.githubusercontent.com/93282657/174162561-86dd298b-17fb-41f0-8789-139da7f9bc61.png)
+
+
 
 
 colab: [https://colab.research.google.com/drive/14uuokZyqCHtEKNCp7plwdr8WdSxbwxjy?usp=sharing](https://colab.research.google.com/drive/1hc5YqnAhbpe08AiKdoNrP__BtxwY9DhD?usp=sharing)
