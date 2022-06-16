@@ -30,8 +30,9 @@ Neospora
 
 
 GCA_000208865
-![изображение](https://user-images.githubusercontent.com/93282657/173921885-a78cfcac-28a4-4d44-a2cc-8add8cc8f287.png)
-GCA_001601855
+![изображение](https://user-images.githubusercontent.com/93282657/174156279-7862ae34-cf77-472e-9cce-368481314d1f.png)
+
+
 ![изображение](https://user-images.githubusercontent.com/93282657/173922602-70d9b30f-d830-4eaf-9e72-6f6036be5f1e.png)
 GCA_002563875
 ![изображение](https://user-images.githubusercontent.com/93282657/173922783-0a924a8b-48f1-4634-9188-70ad9b610d99.png)
