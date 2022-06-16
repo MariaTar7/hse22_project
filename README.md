@@ -109,8 +109,6 @@ GCA_900005765
 
 
 
-colab: [https://colab.research.google.com/drive/14uuokZyqCHtEKNCp7plwdr8WdSxbwxjy?usp=sharing](https://colab.research.google.com/drive/1hc5YqnAhbpe08AiKdoNrP__BtxwY9DhD?usp=sharing)
-
 
 ## Предсказание G-квадруплексов
 colab с G-квадруплексами https://colab.research.google.com/drive/11BjnhLG7NLBURu79COBtpNfrIFB77DaW?usp=sharing
@@ -121,4 +119,10 @@ colab с G-квадруплексами https://colab.research.google.com/drive/
 |  2 | Besnoitia besnoiti         |                                  1079 |                                  23517 |
 |  3 | Plasmodium berghei ANKA    |                                    24 |                                    572 |
 |  4 | Plasmodium  relictum       |                                     0 |                                      0 |
+
+
+
+colab: [https://colab.research.google.com/drive/14uuokZyqCHtEKNCp7plwdr8WdSxbwxjy?usp=sharing](https://colab.research.google.com/drive/1hc5YqnAhbpe08AiKdoNrP__BtxwY9DhD?usp=sharing)
+
+
 
